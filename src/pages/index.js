@@ -92,7 +92,6 @@ export const query = graphql`
             background
             image
             date(formatString: $dateFormat)
-
           }
           timeToRead
           fields {
